@@ -49,3 +49,9 @@ This project aims to build a web application to predict breast cancer. The appli
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+## Supervised By
+
+
+## Colaborators
+
+
