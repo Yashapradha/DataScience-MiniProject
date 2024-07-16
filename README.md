@@ -53,7 +53,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 [Prof. Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)(Assistant Professor , department of CSE, MIT Mysore)
 
 ## Colaborators
-4MH21CS034 [Harshitha M R]
+4MH21CS034 [Harshitha M R](https://github.com/harshithagowdamr
 
 4MH21CS038 [Jeevitha S R](https://github.com/jeevisr)
 
