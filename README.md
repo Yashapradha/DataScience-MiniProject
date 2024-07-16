@@ -55,10 +55,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Colaborators
 4MH21CS034 [Harshitha M R]
 
-4MH21CS038 [Jeevitha S R] (https://github.com/jeevisr)
+4MH21CS038 [Jeevitha S R](https://github.com/jeevisr)
 
 4MH21CS073 [Punya Shree V K]
 
-4MH21CS119[Yashapradha M](https://github.com/Yashapradha)
+4MH21CS119 [Yashapradha M](https://github.com/Yashapradha)
 
 
