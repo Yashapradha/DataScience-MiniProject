@@ -50,8 +50,12 @@ This project aims to build a web application to predict breast cancer. The appli
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Supervised By
-
+[Prof. Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)(Assistant Professor , department of CSE, MIT Mysore)
 
 ## Colaborators
+4MH21CS034[Harshitha M R]
+4MH21CS038[Jeevitha S R]
+4MH21CS073[Punya Shree V K]
+4MH21CS119[Yashapradha M](https://github.com/Yashapradha)
 
 
