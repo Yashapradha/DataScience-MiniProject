@@ -4,6 +4,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Workflow](#workflow)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -12,6 +13,20 @@
 ## Overview
 
 This project aims to build a web application to predict breast cancer. The application leverages Flask for the web interface and Python for data processing and machine learning to classify tumors as benign or malignant.
+
+## Workflow:
+
+Data Input:
+Users enter their medical data into the web form.
+
+Data Processing:
+The backend server receives the input data and preprocesses it for the machine learning model.
+
+Prediction:
+The machine learning model analyzes the processed data and predicts the likelihood of breast cancer.
+
+Result Display:
+The prediction result (benign or malignant) is displayed to the user.
 
 ## Installation
 
