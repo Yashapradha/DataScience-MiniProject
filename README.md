@@ -18,7 +18,7 @@ This project aims to build a web application to predict breast cancer. The appli
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/breast-cancer-prediction.git
+    git clone https://github.com/Yashapradha/DataScience-MiniProject.git
     cd breast-cancer-prediction
     ```
 
